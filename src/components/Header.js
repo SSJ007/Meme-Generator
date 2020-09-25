@@ -3,7 +3,7 @@ import React from 'react'
 function Header() {
     return (
         <header>
-            <p>Yo</p>
+            <p>Meme Generator</p>
         </header>
     )
 
